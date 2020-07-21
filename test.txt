@@ -1,0 +1,4 @@
+/home/leslie/Downloads/keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/0025.jpg 104,173,286,307,0
+/home/leslie/Downloads/keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/0033.jpg 16,290,553,665,0
+/home/leslie/Downloads/keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/0006.jpg 338,165,443,234,0
+/home/leslie/Downloads/keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/0010.jpg 229,295,609,579,0

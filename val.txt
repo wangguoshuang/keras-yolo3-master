@@ -1,0 +1,1 @@
+/home/leslie/Downloads/keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/0042.jpg 246,542,536,772,0
